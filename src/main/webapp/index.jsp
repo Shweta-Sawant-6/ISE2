@@ -5,7 +5,7 @@
    <body>
       The following image works as a link:<br>
       <h1> EIFFEL TOWER </h1>
-      <a href="https://en.wikipedia.org/wiki/Eiffel_Tower">
+      <a link="eiffel.html">
          <img alt="Qries" src="Eiffel.jpg"
          width="150" height="200"
       </a>
